@@ -1,0 +1,9 @@
+{
+  "name": "globo.com-de",
+  "version": "1.0.0",
+  "description": "Driven project",
+  "main": "index.html",
+  "author": "Vinicius <vinigugelmin@hotmail.com>",
+  "license": "MIT",
+  "private": false
+}
